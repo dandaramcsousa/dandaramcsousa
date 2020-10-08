@@ -42,9 +42,9 @@ Me chamo Dandara, sou cientista de dados e estudante de mestrado em ciência da 
    
 
 ## :family_woman_woman_girl_girl:	Comunidades
-   - Membro fundadora do Elas@Computação
-   - Membro fundadora da PyLadies Paraíba
-   - Membro da PyLadies Brasil (organizadora do Papo Entre PyLadies e particapção da gestão interna da comunidade)
+   - Membro fundadora do [Elas@Computação](https://github.com/elasComputacao/)
+   - Membro fundadora da [PyLadies Paraíba](https://github.com/pyladiespb)
+   - Membro da [PyLadies Brasil](https://github.com/pyladies-brazil/) (organizadora do Papo Entre PyLadies e particapção da gestão interna da comunidade)
    - ++ várias comunidades de mulheres na computação
   
 ## 💻Tecnologias
@@ -87,7 +87,7 @@ Me chamo Dandara, sou cientista de dados e estudante de mestrado em ciência da 
 
 ## :woman_technologist:	 Me, myself and I
 
-*wip*
+My name is Dandara, I am data scientist and master's student in computer sciente. This is my github where I use to work, play analyzing and visualizing data, as well as starting random projects that have not always come to an end. I love to participate in communities and I believe in technology as a space to contributing to social good. I can be found out there giving coursers, workshops, talking or organizing events. In addition, I own the best Spotify playlists (follow me).
 
 **pronouns:** she/her
 
@@ -108,15 +108,26 @@ Me chamo Dandara, sou cientista de dados e estudante de mestrado em ciência da 
 
 ## :family_woman_woman_girl_girl:	Communities
 
-*wip* 
+   - Founding member of [Elas@Computação](https://github.com/elasComputacao/)
+   - Founding member of [PyLadies Paraíba](https://github.com/pyladiespb)
+   - Member of [PyLadies Brasil](https://github.com/pyladies-brazil/) (organizer of Papo Entre PyLadies and participation in the internal management of the community)
+   - ++ various communities of women in computing
 
 ## 💻Technologies
 
-*wip*
+  - Data Sciente
+  - Data analysis
+  - Data visualization
+  - Python 🐍 
+  - R
 
 ## 💬 About me
 
-*wip*
+  - I have strong interest in small data and data feminism;
+  - I love to explore a new database, know the context, make insights and good data visualizations;
+  - I like data and open source, especially if they are governmental;
+  - I believe that the best way to learn is to teach;
+  - Whenever possible, I mix a hobby of the moment with programming (eg.: make playlists and use the Spotify API)
 
 ## :gear: Languages and tools
 

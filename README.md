@@ -115,7 +115,7 @@ My name is Dandara, I am data scientist and master's student in computer sciente
 
 ## 💻Technologies
 
-  - Data Sciente
+  - Data science
   - Data analysis
   - Data visualization
   - Python 🐍 

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # [PT-BR] Olá mundo!
 
 ## :woman_technologist:	 Quem sou eu
-Me chamo Dandara, sou cientista de dados e estudante de mestrado em ciência da computação. Este é meu github onde utilizo para trabalhar, brincar de analisar e visualizar dados além de iniciar projetos aleatórios que nem sempre chegaram ao fim. Amo participar de comunidades e acredito na tecnologia como um espaço para contribuir com o bem social. Posso ser encontrada por aí dando minicursos, oficinas, palestrando ou organizando eventos. Além disso, sou dona das melhores playlists do Spotify (me sigam).
+Me chamo Dandara, sou analista de dados e bacharel em ciência da computação. Este é meu github onde utilizo para trabalhar, brincar de analisar e visualizar dados além de iniciar projetos aleatórios que nem sempre chegaram ao fim. Amo participar de comunidades e acredito na tecnologia como um espaço para contribuir com o bem social. Posso ser encontrada por aí dando minicursos, oficinas, palestrando ou organizando eventos. Além disso, sou dona das melhores playlists do Spotify (me sigam).
 **pronomes:** ela/dela
 
 <a href="https://twitter.com/dandaramcsousa">
@@ -87,7 +87,7 @@ Me chamo Dandara, sou cientista de dados e estudante de mestrado em ciência da 
 
 ## :woman_technologist:	 Me, myself and I
 
-My name is Dandara, I am data scientist and master's student in computer sciente. This is my github where I use to work, play analyzing and visualizing data, as well as starting random projects that have not always come to an end. I love to participate in communities and I believe in technology as a space to contributing to social good. I can be found out there giving coursers, workshops, talking or organizing events. In addition, I own the best Spotify playlists (follow me).
+My name is Dandara, I am data analyst and bachelor in computer sciente. This is my github where I use to work, play analyzing and visualizing data, as well as starting random projects that have not always come to an end. I love to participate in communities and I believe in technology as a space to contributing to social good. I can be found out there giving coursers, workshops, talking or organizing events. In addition, I own the best Spotify playlists (follow me).
 
 **pronouns:** she/her
 
